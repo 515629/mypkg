@@ -15,11 +15,14 @@ setup(
     zip_safe=True,
     maintainer='tokojun',
     maintainer_email='tokojun15@outlook.jp',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='a package for practice',
+    license='BSD-3-Clause',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'talker = mypkg.talker:main',
+            'listener = mypkg.listener:main',
         ],
     },
 )
+
