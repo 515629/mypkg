@@ -20,7 +20,7 @@ $ git clone https://github.com/515629/mypkg.git
 * talker.pyとlistener.pyを一度に立ち上げることができます
 
 ## 実行方法と結果
-# 端末を2つ使う場合
+### 端末を2つ使う場合
 
 ## 必要なソフトウェア
 * ROS2（作成者の使用バージョン : humble）
