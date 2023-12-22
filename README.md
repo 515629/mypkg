@@ -1,8 +1,7 @@
 # mypkg
 これらはロボットシステム学２０２３の授業で製作したものです
 
-![test](https://github.com/515629/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/515629/mypkg/actions/workflows/test.yml)
-
+![test](https://github.com/515629/mypkg/actions/workflows/test.yml/badge.svg)
 
 （ここに前ページの項目をいろいろ書く）
 
