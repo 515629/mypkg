@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Jun Tokoeda
+# SPDX-License-Identifier: BSD-3-Clause
+
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int16
@@ -18,3 +21,6 @@ rclpy.init()
 node = Node("talker")
 talker = Talker(node)
 rclpy.spin(node)
+
+if __name__ == '__main__':
+    main()
