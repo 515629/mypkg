@@ -1,7 +1,7 @@
 # mypkg
 こちらは千葉工業大学未来ロボティクス学科のロボットシステム学２０２３の授業で製作したものです
 
-![test](https://github.com/515629/mypkg/actions/workflows/test.yml/badge.svg)
+[![test](https://github.com/515629/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/515629/mypkg/actions/workflows/test.yml)
 
 * ROS2のインストールがまだの方は先にインストールをお願いします
 * ROS2のインストールがお済の方は以下のコードでクローンを行ってください
