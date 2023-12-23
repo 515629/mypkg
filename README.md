@@ -31,12 +31,6 @@ $ ros2 run mypkg talker
 * 端末2
 ```
 $ ros2 run mypkg listener
-```
-#### 実行結果
-
-* 端末2
-```
-$ ros2 run mypkg listener
 [INFO] [1703247924.927275467] [listener]: Listen: 26
 [INFO] [1703247925.405913627] [listener]: Listen: 27
 [INFO] [1703247925.905327838] [listener]: Listen: 28
@@ -54,11 +48,6 @@ $ ros2 run mypkg listener
 ```
 #### 端末を1つ使って実行する
 
-```
-$ ros2 launch mypkg talk_listen.launch.py
-```
-
-#### 実行結果
 ```
 $ ros2 launch mypkg talk_listen.launch.py
 [INFO] [launch]: All log files can be found below /home/tokojun/.ros/log/2023-12-22-21-36-45-552193-jusomaru-527
@@ -80,7 +69,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 ```
 
 ## 必要なソフトウェア
-* ROS2（作成者の使用バージョン : humble）
+* ROS2 humble
 
 ## テスト環境
 * Ubuntu 22.04.2 LTS
